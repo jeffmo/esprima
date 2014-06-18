@@ -19545,6 +19545,7 @@ var testFixture = {
                 NewExpression: 'NewExpression',
                 ObjectExpression: 'ObjectExpression',
                 ObjectPattern: 'ObjectPattern',
+                ObjectTypeAnnotation: 'ObjectTypeAnnotation',
                 Program: 'Program',
                 Property: 'Property',
                 ReturnStatement: 'ReturnStatement',
